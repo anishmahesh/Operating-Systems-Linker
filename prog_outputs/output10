@@ -1,0 +1,15 @@
+Symbol Table
+x33=0
+x44=1
+X21=4 Error: This variable is multiply defined; first value used.
+
+Memory Map
+0: 1004
+1: 1004
+2: 1000
+3: 2000 Error: Absolute address exceeds machine size; zero used.
+4: 3456
+5: 3456
+6: 3456
+
+Warning: x44 was defined in module 1 but never used.

@@ -1,0 +1,13 @@
+Symbol Table
+X21=3
+X31=4 Error: Definition exceeds module size; first word in module used.
+
+Memory Map
+0:  1003
+1:  1003
+2:  1003
+3:  2004
+4:  3456
+5:  3123
+
+Error: Use of X21 in module 1 exceeds module size; use ignored.
